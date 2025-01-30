@@ -46,7 +46,7 @@ You may also be able to find versions of the schema for usage with older version
 > The schemas contained in this repository are for demonstration purposes, and as such, are not open to pull requests. However, you are welcome to create a fork and make changes to your own copy, subject to our license ([LICENSE.txt](LICENSE.txt)).
 
 **Q.** What can I do with the **AsynchMethodExample** schema?
-> Refer to the **Asynchronous Method Calls** white paper found at [https://www.jadeworld.com/jade-platform/developer-centre/documentation/white-papers](https://www.jadeworld.com/jade-platform/developer-centre/documentation/white-papers) for detailed instructions on using the schema as well as exaplanations of the concepts it demonstrates.
+> Refer to the **Asynchronous Method Calls** white paper found at https://www.jadeplatform.com/developer-centre/learn/whitepapers for detailed instructions on using the schema as well as exaplanations of the concepts it demonstrates.
 
 
 ## License
